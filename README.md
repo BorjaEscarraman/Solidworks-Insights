@@ -3,7 +3,7 @@ This repository stores references, papers, inspiration, and technical resources 
 Each modeled component is accompanied by research sources, diagrams, and engineering explanations used to understand the real hardware behind the design.
 
 The chain of my workflow;
-Research → model → iterate.
+* Research → model → iterate.
 
 Here there's some texture libraries I found around:
 - https://www.sharetextures.com
