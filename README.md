@@ -16,4 +16,4 @@ Podcasts I use along the way for entertainment as I design.
 - https://youtube.com/@alfonsogonzalez-astrodynam2207?si=hfktORubfQl0rwSX
 
 Sick Rocket Launch photo galleries.
-https://www.launchphotography.com/Launch_Photos_2020-2024
+- https://www.launchphotography.com/Launch_Photos_2020-2024
