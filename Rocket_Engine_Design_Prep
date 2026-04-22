@@ -1,0 +1,130 @@
+As I got exposed for the first time to individual Rocket Parts, I got familiarized with the software and jargon... 
+Now it's time to see the big picture of Rocket Design.
+These are the families for LRE I've classified so far;
+
+1. Propellant feed components --> bring oxidizer and fuel to the engine. https://ntrs.nasa.gov/api/citations/20100035254/downloads/20100035254.pdf
+    Fuel inlet
+    Oxidizer inlet
+    Feed line
+    Manifold
+    Propellant distribution passage
+    Valve body
+    Valve seat
+    Valve poppet / pintle / spool depending on valve style
+    Filter / screen
+    Flange / line interface
+    Tubing fittings / couplers
+2. Injector System --> Atomizes and Streamlines the propellant into the Combustion Chamber of the TCA.
+    Injector plate
+    Injector element
+    Injector orifice
+    Fuel passage
+    Oxidizer passage
+    Swirl chamber if swirl injector
+    Tangential inlet slot if swirl injector
+    Coaxial post if coaxial injector
+    Injector face
+    Injector cup / element recess depending on design
+    Baffle if injector stability hardware is present
+    Acoustic cavity / resonator in some designs
+
+
+3. Combustion Chamber Sytem --> Pressure vessel and heat-transfer battlefield.
+    Combustion chamber liner
+    Chamber jacket
+    Chamber wall
+    Thrust chamber assembly (TCA)
+    Igniter port boss
+    Igniter mount
+    Sensor port
+    Pressure tap boss
+    Injector mounting flange
+    Chamber closeout
+    Structural shell
+
+4. Throat and Nozzle System --> Hot gas gets expanded into thrust
+    Throat section
+    Converging section
+    Diverging nozzle
+    Nozzle wall
+    Nozzle extension
+    Nozzle skirt
+    Exit flange
+    Nozzle reinforcement ring
+    Film cooling ring / slot if present
+
+
+5. Cooling System --> 
+    Cooling channel
+    Coolant inlet manifold
+    Coolant outlet manifold
+    Channel rib / land
+    Channel closeout
+    Regenerative cooling jacket
+    Film cooling passage
+    Dump cooling passage if applicable
+
+
+6. Ignition System -->
+    Igniter
+    Igniter body
+    Igniter port
+    Spark plug or torch igniter depending on architecture
+    Igniter injector
+    Igniter mount bracket / boss
+
+
+7. Structural and Interface Hardware -->
+    Mounting flange
+    Engine mount interface
+    Bracket
+    Support ring
+    Stiffener
+    Clamp
+    Bolt pattern interface
+    Retainer
+    Pin
+    Clevis
+    Gimbal interface if gimbaled
+    Actuator bracket if TVC is present
+
+
+8. Sealing and Joining Hardware -->
+    Seal groove
+    O-ring gland
+    Gasket interface
+    Weld joint
+    Brazed joint
+    Threaded interface
+    Face seal surface
+
+
+9. Turbomachinery compoentns -->
+    Pump impeller
+    Inducer
+    Volute
+    Pump casing
+    Turbine wheel
+    Turbine housing
+    Shaft
+    Bearing housing
+    Seal housing
+    Turbine nozzle guide vane
+    Turbopump inlet
+    Turbopump discharge
+
+
+10. Control / Actuation components -->
+    TVC actuator
+    Rod-end clevis
+    Clevis bracket
+    Pivot pin
+    Gimbal ring
+    Gimbal mount
+    Actuator linkage
+
+
+Approximating about 40-100 Parts within these sections total!
+
+Best Rocket Engine Reference Up to date. https://en.wikipedia.org/wiki/SpaceX_Raptor
+Material Sciece Behind = https://ntrs.nasa.gov/api/citations/20160008869/downloads/20160008869.pdf
