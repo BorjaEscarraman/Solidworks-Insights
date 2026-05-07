@@ -1,5 +1,5 @@
 # Aero-Forge... The Space to work on CAE
-CAD --> Technical Drawings w/ GD&T --> FEA --> CFD --> Manufacturing --> Overleaf 
+CAD --> Technical Drawings w/ GD&T --> FEA --> CFD --> Manufacturing --> Overleaf \
 This repository stores references, papers, inspiration, and technical resources related to the parts I design while learning SolidWorks through a daily engineering practice.
 Each modeled component is accompanied by research sources, diagrams, and engineering explanations used to understand the real hardware behind the design.
 
