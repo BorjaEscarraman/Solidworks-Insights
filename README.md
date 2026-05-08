@@ -1,7 +1,8 @@
-# Aero-Forge... The Space to work on CAE
-CAD --> Technical Drawings w/ GD&T --> FEA --> CFD --> Manufacturing --> Overleaf \
-This repository stores references, papers, inspiration, and technical resources related to the parts I design while learning SolidWorks through a daily engineering practice.
-Each modeled component is accompanied by research sources, diagrams, and engineering explanations used to understand the real hardware behind the design.
+# Aero-Forge... CAE
+CAD --> GD&T --> FEA --> CFD --> Manufacturing --> Overleaf \
+This repository exposes engineered parts and the documentation to track evolution both in the part and myself for constant feeback.
+References such as... papers from official organizations, students, articles, diagrams, and overall technical resources related to the parts I design and perform analysis on.
+
 
 My ultimate aim is to become profficient not only in Solidworks, but also in miniziming noise while scavenging for segments of information in different sources that support what I want to build at the moment.
 
