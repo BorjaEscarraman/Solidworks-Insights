@@ -7,36 +7,36 @@ References such as... papers from official organizations, students, articles, di
 
 The Internet is truly immense... and whenever I had somewhat of an interest in building or learning something, there is an infinite amount of resources you can dig into, so it tends to be quite overwhelming. On that account, my ultimate aim in here, is to become profficient in the workflow of minimizing noise during the absorpotion of necessary information... as I navigate for information rapidly between different sources, I want to be able to figure out at the snap of my fingers, what's useful and what's not, for the sake of what I want to build at the moment.
 
-The chain of my workflow;
+**The chain of my workflow;**
 - Research → model → iterate.
 
-Here there's some texture libraries I found around:
-- https://www.sharetextures.com
-- https://ambientcg.com
-- https://polyhaven.com
-
+**Main entertainment and source of inspiration.**
 Podcasts I use along the way for entertainment as I design.
 - https://youtube.com/@alfonsogonzalez-astrodynam2207?si=hfktORubfQl0rwSX
 
-Sick Rocket Launch photo galleries.
+Sick Rocket Launch photo galleries...
 - https://www.launchphotography.com/Launch_Photos_2020-2024
 
+As the amount of references I dug into to learn in this "Space" is absolutely vast... I decided to update this list with resources I see myself going back to a considerable amount of times.
 
-Additive Manufacturing.
-- https://www.youtube.com/watch?v=P5-jtvYlA1c&sttick=0
-
-- Engine Technology.
-- https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/engines.html
-- https://www.youtube.com/watch?v=3isXaIQ3Lkk
-
-- CAD
-- https://www.youtube.com/watch?v=G7wnGeR_69k&t=185s
+**CAD.**
+- https://www.sharetextures.com
+- https://ambientcg.com
+- https://polyhaven.com
+- - https://www.youtube.com/watch?v=G7wnGeR_69k&t=185s
 - https://ambientcg.com/list?sort=popular (Texture Library)
 
-- CFD Sources.
+**FEA**
+
+
+**CFD.**
 - https://www.wolfdynamics.com/index.php
 
-- Miscellaneous
+
+**Additive Manufacturing.**
+- https://www.youtube.com/watch?v=P5-jtvYlA1c&sttick=0
+
+**Miscellaneous**
 - http://heroicrelics.org/index.html (Gallery of Aircraft/Missiles) during historic events)
 - https://www.youtube.com/watch?v=u-jXF1YXxFE - Engineer designing a LRE
 - http://www.braeunig.us/space/basics.htm - Basics of Spaceflight
@@ -58,3 +58,11 @@ Additive Manufacturing.
 - https://empoweringpumps.com/cfturbo-conceptual-design-of-a-cryogenic-rocket-turbopump/
 - https://www.youtube.com/watch?v=HMnHlsxwBGI [Specific Aerospace Explanations]
 - https://www.youtube.com/@scottmanley/videos
+  
+**Engine Technology.**
+- https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/engines.html
+- https://www.youtube.com/watch?v=3isXaIQ3Lkk
+- https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/engines.html
+- https://www.youtube.com/watch?v=3isXaIQ3Lkk
+
+
