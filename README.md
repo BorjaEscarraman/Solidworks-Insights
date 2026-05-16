@@ -10,7 +10,7 @@ The Internet is truly immense... and whenever I had somewhat of an interest in b
 **The chain of my workflow;**
 - Research → model → iterate.
 
-**Main entertainment and source of inspiration.** \
+**Main entertainment and source of inspiration.** 
 
 Podcasts I used along the way for entertainment as I design.
 - https://youtube.com/@alfonsogonzalez-astrodynam2207?si=hfktORubfQl0rwSX
