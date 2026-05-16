@@ -12,10 +12,10 @@ The Internet is truly immense... and whenever I had somewhat of an interest in b
 
 **Main entertainment and source of inspiration.** 
 
-Podcasts I used along the way for entertainment as I design.
+**Podcasts**
 - https://youtube.com/@alfonsogonzalez-astrodynam2207?si=hfktORubfQl0rwSX
 
-Sick Rocket Launch photo galleries...
+**Sick Rocket Launch photo galleries...**
 - https://www.launchphotography.com/Launch_Photos_2020-2024
 
 As the amount of references I dug into to learn in this "Space" is absolutely vast... I decided to update this list with resources I see myself going back to a considerable amount of times.
